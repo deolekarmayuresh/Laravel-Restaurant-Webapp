@@ -1,3 +1,5 @@
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+
 # MD's Kitchen 
 - Realtime Pizza & Kebab Ordering Web Application 🍕🍕
 
